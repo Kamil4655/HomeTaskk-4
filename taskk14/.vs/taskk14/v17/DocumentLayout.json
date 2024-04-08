@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844FCB95-9E88-4EDD-A34E-98AABA0A605B}|taskk14\\taskk14.csproj|c:\\users\\kamil\\desktop\\task 14\\taskk14\\taskk14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844FCB95-9E88-4EDD-A34E-98AABA0A605B}|taskk14\\taskk14.csproj|solutionrelative:taskk14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844FCB95-9E88-4EDD-A34E-98AABA0A605B}|taskk14\\taskk14.csproj|c:\\users\\kamil\\desktop\\task 14\\taskk14\\taskk14\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844FCB95-9E88-4EDD-A34E-98AABA0A605B}|taskk14\\taskk14.csproj|solutionrelative:taskk14\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844FCB95-9E88-4EDD-A34E-98AABA0A605B}|taskk14\\taskk14.csproj|c:\\users\\kamil\\desktop\\task 14\\taskk14\\taskk14\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844FCB95-9E88-4EDD-A34E-98AABA0A605B}|taskk14\\taskk14.csproj|solutionrelative:taskk14\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\taskk14\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "taskk14\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\taskk14\\Models\\Student.cs",
+              "RelativeToolTip": "taskk14\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:42:30.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\taskk14\\Extension\\Helper.cs",
+              "RelativeDocumentMoniker": "taskk14\\Extension\\Helper.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\taskk14\\Extension\\Helper.cs",
+              "RelativeToolTip": "taskk14\\Extension\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:55:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\taskk14\\Program.cs",
+              "RelativeDocumentMoniker": "taskk14\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 14\\taskk14\\taskk14\\Program.cs",
+              "RelativeToolTip": "taskk14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:53:39.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

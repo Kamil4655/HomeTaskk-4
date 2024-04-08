@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C6CB2E-3A21-43AD-8149-8D6E67D93180}|prakt\\prakt.csproj|c:\\users\\kamil\\desktop\\task 14\\prakt\\prakt\\ectension\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C6CB2E-3A21-43AD-8149-8D6E67D93180}|prakt\\prakt.csproj|solutionrelative:prakt\\ectension\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C6CB2E-3A21-43AD-8149-8D6E67D93180}|prakt\\prakt.csproj|c:\\users\\kamil\\desktop\\task 14\\prakt\\prakt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C6CB2E-3A21-43AD-8149-8D6E67D93180}|prakt\\prakt.csproj|solutionrelative:prakt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C6CB2E-3A21-43AD-8149-8D6E67D93180}|prakt\\prakt.csproj|c:\\users\\kamil\\desktop\\task 14\\prakt\\prakt\\ectension\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C6CB2E-3A21-43AD-8149-8D6E67D93180}|prakt\\prakt.csproj|solutionrelative:prakt\\ectension\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\prakt\\Ectension\\School.cs",
+              "RelativeDocumentMoniker": "prakt\\Ectension\\School.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\prakt\\Ectension\\School.cs",
+              "RelativeToolTip": "prakt\\Ectension\\School.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:38:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\prakt\\Ectension\\Class1.cs",
+              "RelativeDocumentMoniker": "prakt\\Ectension\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\prakt\\Ectension\\Class1.cs",
+              "RelativeToolTip": "prakt\\Ectension\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:36:54.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\prakt\\Program.cs",
+              "RelativeDocumentMoniker": "prakt\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 14\\prakt\\prakt\\Program.cs",
+              "RelativeToolTip": "prakt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:30:01.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
